@@ -1,3 +1,7 @@
+## With dynamic Perfect-Scrollbar option support
+Dynamic option prop is supported. See example 
+
+### Origin
 # React-Perfect-Scrollbar [![Build Status](https://travis-ci.org/goldenyz/react-perfect-scrollbar.svg?branch=master)](https://travis-ci.org/goldenyz/react-perfect-scrollbar) [![npm](https://img.shields.io/npm/v/react-perfect-scrollbar.svg?style=flat-square)](https://www.npmjs.com/package/react-perfect-scrollbar) [![npm downloads](https://img.shields.io/npm/dm/react-perfect-scrollbar.svg)](https://www.npmjs.com/package/react-perfect-scrollbar)
 
 This is a wrapper to allow use [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) in React.
